@@ -1,7 +1,10 @@
 # Interactive Citation Exploration Widget
 
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeanKossaifi/citation_explorer/HEAD)
+ 
 Interactive Widget for Exploring Citations of Academic Papers. 
-Enter the ID of a paper in the widget and interactively explore the papers that cite it!
+Enter the ID of a paper in the widget and interactively explore the papers that cite it! Try it yourself in your browser with MyBinder by clicking on the link above.
+
 
 For instance, here's a little example of using it to explore the citations of the [TensorLy](http://tensorly.org/stable/index.html) [paper](http://jmlr.org/papers/v20/18-277.html):
 ![Demo](images/demo.gif)
